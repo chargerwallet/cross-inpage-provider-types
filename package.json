@@ -1,6 +1,6 @@
 {
-  "name": "cross-inpage-provider-types",
-  "version": "2.0.0",
+  "name": "@chargerwallet/cross-inpage-provider-types",
+  "version": "3.0.0",
   "keywords": [
     "cross-inpage-provider-types"
   ],
